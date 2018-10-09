@@ -12,10 +12,9 @@ Avro phonetic implementation for Linux in IBus.
 		automake 
 		autoconf
 		gjs
-		gir1.2-gjsdbus-1.0
 		gir1.2-ibus-1.0
 
-    __For Ubuntu 12.04__
+    __For Ubuntu __
     
     	sudo apt-get install git ibus libibus-1.0-dev automake autoconf gjs gir1.2-gjsdbus-1.0 gir1.2-ibus-1.0
 	
