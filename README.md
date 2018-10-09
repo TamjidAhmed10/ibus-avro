@@ -31,8 +31,9 @@ Avro phonetic implementation for Linux in IBus.
 		aclocal && autoconf && automake --add-missing
 		./configure --prefix=/usr
 		sudo make install
+		
 
-
+## then reboot.
 ## Usage
  1. Run __IBus__ (`Applications -> System Tools -> IBus`) from _Dash_
  2. Open __IBus__ `Preferences` from the top panel icon  
