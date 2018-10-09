@@ -40,7 +40,7 @@ Avro phonetic implementation for Linux in IBus.
  3. Go to `Input method`
  4. `Select an input method -> Bengali -> Avro`
  5. Now Click `Add` button to add __Avro__ to the list
- 6. Now restart __IBus__ from the top panel icon (`Right Click -> Restart`)
+ 6. Now restart computer again.
  7. Now Press `Ctrl+Space` to toggle between _English_ and _Avro_ (Bengali)
  8. Enjoy __Avro Phonetic!__
 
