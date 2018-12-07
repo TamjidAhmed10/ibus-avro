@@ -14,7 +14,7 @@ Avro phonetic implementation for Linux in IBus.
 		gjs
 		gir1.2-ibus-1.0
 
-    __For Ubuntu __
+    __For Ubuntu or any linux distro__
     
     	sudo apt-get install git ibus libibus-1.0-dev automake autoconf gjs gir1.2-ibus-1.0
 	
@@ -52,5 +52,7 @@ __IBus Engine__ by __Sarim Khan__ <sarim2005@gmail.com>
 [__Avro JavaScript Phonetic Library__](https://github.com/torifat/jsAvroPhonetic) by [__Rifat Nabi__](https://github.com/torifat)
 
 __Avro Phonetic Dictionary Search Library__ by [__Mehdi Hasan Khan__](https://github.com/omicronlab)
+
+__Final edited__ by __tamjid ahmed__ https://www.facebook.com/tamjid.ahmed1
 
 _Licensed under Mozilla Public License 1.1 ("MPL"), an open source/free software license._
