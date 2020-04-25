@@ -5,16 +5,7 @@ Avro phonetic implementation for Linux in IBus.
 
 1. Open terminal/package manager and install following packages:
  
-		git 
-		libibus-1.0-0
-		libibus-1.0-dev
-		ibus
-		automake 
-		autoconf
-		gjs
-		gir1.2-ibus-1.0
-
-    __For Ubuntu or any linux distro__
+   For Ubuntu or any linux distro__
     
     	sudo apt-get install git ibus libibus-1.0-dev automake autoconf gjs gir1.2-ibus-1.0
 	
@@ -35,15 +26,18 @@ Avro phonetic implementation for Linux in IBus.
 
 ## then reboot.
 ## Usage
- 1. Run __IBus__ (`Applications -> System Tools -> IBus`) from _Dash_
- 2. Open __IBus__ `Preferences` from the top panel icon  
- 3. Go to `Input method`
- 4. `Select an input method -> Bengali -> Avro`
- 5. Now Click `Add` button to add __Avro__ to the list
- 6. Now restart computer again.
- 7. Now Press ` Super+Space` to toggle between _English_ and _Avro_ (Bengali)
- 8. Enjoy __Avro Phonetic!__
+Now go to System Settings -> Language Support
 
+Look at the Keyboard input method system
+Select IBus and close the window.
+You may need to restart IBus to make everything work.
+
+Try the following command:
+
+ibus restart
+
+
+Otherwise, a reboot may be required.
 
 ## Contributors
  
