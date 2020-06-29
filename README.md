@@ -31,7 +31,14 @@ Now go to System Settings -> Language Support
 Look at the Keyboard input method system
 Select IBus and close the window.
 You may need to restart IBus to make everything work.
-
+## For Linux Mint :
+1) after reboot go to settings then go to input method and settings and choose ibus as input.
+2) then go to terminal and type:
+	ibus-setup
+3) go to input
+4) Select Bangla then avro.
+finnaly set the short cuts.
+details in the video: https://youtu.be/ngbnSHVlYPI
 Try the following command:
 
 ibus restart
